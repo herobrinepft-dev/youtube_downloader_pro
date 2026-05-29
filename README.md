@@ -1,7 +1,7 @@
 echo "# 🎬 YouTube Downloader Pro
 
 ## 📥 Téléchargement
-[![Download](https://img.shields.io/badge/Download-YouTubeDownloaderPro.exe-brightgreen)](https://github.com/YOUR_USERNAME/YouTubeDownloaderPro/releases)
+[![Download](https://img.shields.io/badge/Download-YouTubeDownloaderPro.exe-brightgreen)](https://github.com/herobrinepft-dev/YouTubeDownloaderPro/releases)
 
 ## ✨ Fonctionnalités
 - 🚀 Téléchargement MP4, MP3, WEBM
